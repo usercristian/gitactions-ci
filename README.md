@@ -1,14 +1,14 @@
-## 🎯 Objetivos de Aprendizado
+## Objetivos de Aprendizado
 
-- ✅ Entender a arquitetura básica de CI/CD
-- ✅ Escrever workflows em YAML para GitHub Actions
-- ✅ Criar pipelines de CI completos com múltiplos jobs
-- ✅ Analisar e debugar logs de execução
-- ✅ Comparar Jenkins e GitHub Actions
-- ✅ Entender opções de deploy na AWS
-- ✅ Escolher a ferramenta certa para cada cenário
+- Entender a arquitetura básica de CI/CD
+- Escrever workflows em YAML para GitHub Actions
+- Criar pipelines de CI completos com múltiplos jobs
+- Analisar e debugar logs de execução
+- Comparar Jenkins e GitHub Actions
+- Entender opções de deploy na AWS
+- Escolher a ferramenta certa para cada cenário
 
-## 📚 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js 18** - Runtime JavaScript
 - **Express.js** - Framework web
@@ -18,7 +18,7 @@
 - **Docker** - Containerização
 - **AWS** - Cloud (ECR, ECS)
 
-## 🧪 Testar Localmente
+## Testar Localmente
 
 ```bash
 # Instalar dependências

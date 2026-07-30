@@ -1,4 +1,4 @@
-name: 🚀 CI Básico
+name: CI inicial
 
 # Quando executar este workflow
 on:
